@@ -1,0 +1,26 @@
+.title {
+    text-align: center;
+}
+
+#recipe-list {
+    text-align: center;
+    font-weight: bold;
+    list-style: none;
+}
+
+body {
+    background-color: bisque;
+}
+
+.list-item {
+    background-color:beige;
+}
+
+ol {
+    background-color:beige;
+}
+
+.recipe-name {
+    font-weight: bold;
+    font-size: 50px;
+}
